@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Invitacion14F/dist/",
+  base: "/invitacion14f/",
   plugins: [
     vue(),
   ],
