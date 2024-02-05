@@ -3,7 +3,7 @@ import Swal from 'sweetalert2'
 </script>
 
 <template>
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto">
+    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; margin: auto;">
         <h1>¿Quieres salir conmigo en San Valentín?</h1>
         <div style="width: 1px; height: 30px"></div>
         <div class="contenedor">
